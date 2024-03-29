@@ -1,0 +1,41 @@
+\underline{$\star$ Rappel :} 
+- Une diode peut être modélisé de la manière suivante : 
+\begin{figure}[H]
+    \begin{center}
+        \includegraphics*[scale=0.5]{images/2.png}
+        \caption{\label{figure 2} Modélisation d'une diode.}
+    \end{center}
+\end{figure}
+- Sur les ponts de Wheatstone :
+
+$U_{AB} = 0V$ si $(R_1+R_2+xR_p)(R_4+R_D)=R_3R_5$
+
+\begin{figure}[H]
+    \begin{center}
+        \includegraphics*[scale=0.5]{images/3.png}
+        \caption{\label{figure 3} Schéma d'un montage avec $E_2=0V$, $R_1 = 100\Omega$,$R_2=820\Omega$,$R_3=150\Omega$,$R_4=47\Omega$ et $R_5=470\Omega$.}
+    \end{center}
+\end{figure}
+
+Dans le cas d’une diode idéale, $R_D$ et $V_{th}$ sont nulles, mais cela n’est pas le cas pour un composant réel.
+Le but de cet exercice était de déterminer les valeurs $R_D$ et $V_{th}$ des diodes disponibles en salle de TP.
+\\
+
+Nous avons reproduis le montage de la figure \ref{figure 3}, avons réglé le potentiomètre pour obtenir une tension de $U_{AB}=0V$ et avons ensuite, sans dérégler le potentiomètre, placé la diode et réglé le générateur $E_1 = 7V$ et $ E_2 = 0.69 $ pour avoir une tension $U_C = 0V$. 
+\\
+
+Le but d'une tel manipulation est de déterminer la valeur de la résistance du potentiomètre sans la
+connaître par équilibrage des deux branches du circuit, En effet lorsque $U > V_{th}$ la diode se comporte
+comme un générateur. On règle donc le générateur $E_2$ de manière à ce qu’il compense la tension $V_{th}$
+afin de calculer $R_D$. Voici un schéma l'expliquant : 
+\\
+
+Ensuite, et ce sans déréglé $V_2$, nous avons réglé la valeur $E_1 = 10V$ et réglé de nouveau le potentiomètre pour obtenir une tension $ U_{AB}=0V$ :
+
+\[(R_1+R_2+xR_p)(R_4+R_D)=R_3R_5\]
+\[\leftrightarrow R_4+R_D = \frac{R_3R_5}{R_1+R_2+xR_p}\]
+\[\leftrightarrow R_D = \frac{R_3R_5-R_4(R_1+R_2+xR_p)}{R_1+R_2+xR_p}\]
+\[\leftrightarrow R_D = \frac{150*470-47(100+820+500)}{100+820+500}\]
+\[\leftrightarrow R_D \simeq  2.64\Omega\]
+
+Nous pouvons en déduire que la valeur de $R_D$ d'environ $2.64\Omega$.
