@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.30)  29 MAR 2024 17:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.30)  30 MAR 2024 17:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1201,40 +1201,50 @@ File: images/4.png Graphic file (type png)
 <use images/4.png>
 Package pdftex.def Info: images/4.png  used on input line 5.
 (pdftex.def)             Requested size: 229.23083pt x 121.57892pt.
- [7 <./images/4.png>]
-<images/Oscillo/SDS00006.png, id=126, 803.0pt x 481.8pt>
+<images/boucle1.png, id=119, 601.4972pt x 142.28156pt>
+File: images/boucle1.png Graphic file (type png)
+<use images/boucle1.png>
+Package pdftex.def Info: images/boucle1.png  used on input line 21.
+(pdftex.def)             Requested size: 300.74786pt x 71.1406pt.
+<images/boucle2.png, id=120, 531.48563pt x 114.4275pt>
+File: images/boucle2.png Graphic file (type png)
+<use images/boucle2.png>
+Package pdftex.def Info: images/boucle2.png  used on input line 28.
+(pdftex.def)             Requested size: 265.74216pt x 57.21361pt.
+ [7 <./images/4.png> <./images/boucle1.png> <./images/boucle2.png>] [8]
+<images/Oscillo/SDS00006.png, id=136, 803.0pt x 481.8pt>
 File: images/Oscillo/SDS00006.png Graphic file (type png)
 <use images/Oscillo/SDS00006.png>
-Package pdftex.def Info: images/Oscillo/SDS00006.png  used on input line 48.
+Package pdftex.def Info: images/Oscillo/SDS00006.png  used on input line 53.
 (pdftex.def)             Requested size: 401.49902pt x 240.8994pt.
 
-Overfull \hbox (9.12196pt too wide) in paragraph at lines 53--54
+Overfull \hbox (9.12196pt too wide) in paragraph at lines 57--58
 []\T1/ptm/m/n/12 Nous pou-vons voir sur la cap-ture d'écran pré-cé-dente que la ten-sion moyenne est de $\T1/futs/m/n/12 869\FML/futmi/m/it/12 :\T1/futs/m/n/12 29\FML/futmi/m/it/12 mV$
  []
 
-<images/Oscillo/SDS00003.png, id=127, 803.0pt x 481.8pt>
+<images/Oscillo/SDS00003.png, id=137, 803.0pt x 481.8pt>
 File: images/Oscillo/SDS00003.png Graphic file (type png)
 <use images/Oscillo/SDS00003.png>
-Package pdftex.def Info: images/Oscillo/SDS00003.png  used on input line 59.
+Package pdftex.def Info: images/Oscillo/SDS00003.png  used on input line 63.
 (pdftex.def)             Requested size: 401.49902pt x 240.8994pt.
-[8 <./images/Oscillo/SDS00006.png (PNG copy)>]
-<images/Oscillo/SDS00004.png, id=133, 803.0pt x 481.8pt>
+[9 <./images/Oscillo/SDS00006.png (PNG copy)>]
+<images/Oscillo/SDS00004.png, id=143, 803.0pt x 481.8pt>
 File: images/Oscillo/SDS00004.png Graphic file (type png)
 <use images/Oscillo/SDS00004.png>
-Package pdftex.def Info: images/Oscillo/SDS00004.png  used on input line 70.
-(pdftex.def)             Requested size: 401.49902pt x 240.8994pt.
- [9 <./images/Oscillo/SDS00003.png (PNG copy)>]) [10 <./images/Oscillo/SDS00004.png (PNG copy)>] (./Redresseursdetension2.tex
-<images/5.png, id=144, 358.33875pt x 268.75406pt>
+Package pdftex.def Info: images/Oscillo/SDS00004.png  used on input line 73.
+(pdftex.def)             Requested size: 321.1943pt x 192.71658pt.
+) [10 <./images/Oscillo/SDS00003.png (PNG copy)> <./images/Oscillo/SDS00004.png (PNG copy)>] (./Redresseursdetension2.tex
+<images/5.png, id=150, 358.33875pt x 268.75406pt>
 File: images/5.png Graphic file (type png)
 <use images/5.png>
 Package pdftex.def Info: images/5.png  used on input line 5.
 (pdftex.def)             Requested size: 179.16893pt x 134.3767pt.
-<images/LTSPICE/1.png, id=145, 1003.75pt x 347.2975pt>
+<images/LTSPICE/1.png, id=151, 1003.75pt x 347.2975pt>
 File: images/LTSPICE/1.png Graphic file (type png)
 <use images/LTSPICE/1.png>
 Package pdftex.def Info: images/LTSPICE/1.png  used on input line 14.
 (pdftex.def)             Requested size: 401.49289pt x 138.91653pt.
-<images/LTSPICE/2.png, id=146, 1906.12125pt x 369.38pt>
+<images/LTSPICE/2.png, id=152, 1906.12125pt x 369.38pt>
 File: images/LTSPICE/2.png Graphic file (type png)
 <use images/LTSPICE/2.png>
 Package pdftex.def Info: images/LTSPICE/2.png  used on input line 24.
@@ -1245,7 +1255,7 @@ Overfull \hbox (23.56125pt too wide) in paragraph at lines 24--25
  []
 
 [11 <./images/5.png> <./images/LTSPICE/1.png (PNG copy)>]
-<images/LTSPICE/3.png, id=154, 1891.065pt x 358.33875pt>
+<images/LTSPICE/3.png, id=160, 1891.065pt x 358.33875pt>
 File: images/LTSPICE/3.png Graphic file (type png)
 <use images/LTSPICE/3.png>
 Package pdftex.def Info: images/LTSPICE/3.png  used on input line 31.
@@ -1255,7 +1265,7 @@ Overfull \hbox (19.7972pt too wide) in paragraph at lines 31--32
  [] 
  []
 
-<images/LTSPICE/4.png, id=155, 1900.09875pt x 366.36874pt>
+<images/LTSPICE/4.png, id=161, 1900.09875pt x 366.36874pt>
 File: images/LTSPICE/4.png Graphic file (type png)
 <use images/LTSPICE/4.png>
 Package pdftex.def Info: images/LTSPICE/4.png  used on input line 38.
@@ -1265,7 +1275,7 @@ Overfull \hbox (22.05563pt too wide) in paragraph at lines 38--39
  [] 
  []
 
-<images/LTSPICE/5.png, id=156, 1905.1175pt x 369.38pt>
+<images/LTSPICE/5.png, id=162, 1905.1175pt x 369.38pt>
 File: images/LTSPICE/5.png Graphic file (type png)
 <use images/LTSPICE/5.png>
 Package pdftex.def Info: images/LTSPICE/5.png  used on input line 45.
@@ -1275,7 +1285,7 @@ Overfull \hbox (23.31032pt too wide) in paragraph at lines 45--46
  [] 
  []
 
-<images/LTSPICE/6.png, id=157, 1900.09875pt x 360.34625pt>
+<images/LTSPICE/6.png, id=163, 1900.09875pt x 360.34625pt>
 File: images/LTSPICE/6.png Graphic file (type png)
 <use images/LTSPICE/6.png>
 Package pdftex.def Info: images/LTSPICE/6.png  used on input line 52.
@@ -1286,7 +1296,7 @@ Overfull \hbox (22.05563pt too wide) in paragraph at lines 52--53
  []
 
 [12 <./images/LTSPICE/2.png (PNG copy)> <./images/LTSPICE/3.png (PNG copy)> <./images/LTSPICE/4.png (PNG copy)> <./images/LTSPICE/5.png (PNG copy)>]
-<images/LTSPICE/7.png, id=167, 1901.1025pt x 369.38pt>
+<images/LTSPICE/7.png, id=174, 1901.1025pt x 369.38pt>
 File: images/LTSPICE/7.png Graphic file (type png)
 <use images/LTSPICE/7.png>
 Package pdftex.def Info: images/LTSPICE/7.png  used on input line 59.
@@ -1296,7 +1306,7 @@ Overfull \hbox (22.30656pt too wide) in paragraph at lines 59--60
  [] 
  []
 
-<images/LTSPICE/8.png, id=168, 1896.08376pt x 363.3575pt>
+<images/LTSPICE/8.png, id=175, 1896.08376pt x 363.3575pt>
 File: images/LTSPICE/8.png Graphic file (type png)
 <use images/LTSPICE/8.png>
 Package pdftex.def Info: images/LTSPICE/8.png  used on input line 66.
@@ -1306,18 +1316,18 @@ Overfull \hbox (21.05188pt too wide) in paragraph at lines 66--67
  [] 
  []
 
-<images/6.png, id=169, 461.47406pt x 282.30469pt>
+<images/6.png, id=176, 461.47406pt x 282.30469pt>
 File: images/6.png Graphic file (type png)
 <use images/6.png>
 Package pdftex.def Info: images/6.png  used on input line 78.
 (pdftex.def)             Requested size: 230.73645pt x 141.152pt.
 [13 <./images/LTSPICE/6.png (PNG copy)> <./images/LTSPICE/7.png (PNG copy)> <./images/LTSPICE/8.png (PNG copy)>]
-<images/LTSPICE/a.png, id=178, 603.25375pt x 334.24875pt>
+<images/LTSPICE/a.png, id=184, 603.25375pt x 334.24875pt>
 File: images/LTSPICE/a.png Graphic file (type png)
 <use images/LTSPICE/a.png>
 Package pdftex.def Info: images/LTSPICE/a.png  used on input line 87.
 (pdftex.def)             Requested size: 241.29723pt x 133.69713pt.
-<images/LTSPICE/b.png, id=179, 1900.09875pt x 363.3575pt>
+<images/LTSPICE/b.png, id=185, 1900.09875pt x 363.3575pt>
 File: images/LTSPICE/b.png Graphic file (type png)
 <use images/LTSPICE/b.png>
 Package pdftex.def Info: images/LTSPICE/b.png  used on input line 96.
@@ -1327,7 +1337,7 @@ Overfull \hbox (22.05563pt too wide) in paragraph at lines 96--97
  [] 
  []
 
-<images/LTSPICE/c.png, id=180, 1900.09875pt x 358.33875pt>
+<images/LTSPICE/c.png, id=186, 1900.09875pt x 358.33875pt>
 File: images/LTSPICE/c.png Graphic file (type png)
 <use images/LTSPICE/c.png>
 Package pdftex.def Info: images/LTSPICE/c.png  used on input line 103.
@@ -1338,7 +1348,7 @@ Overfull \hbox (22.05563pt too wide) in paragraph at lines 103--104
  []
 
 [14 <./images/6.png> <./images/LTSPICE/a.png (PNG copy)> <./images/LTSPICE/b.png (PNG copy)>]
-<images/LTSPICE/d.png, id=189, 1897.0875pt x 353.32pt>
+<images/LTSPICE/d.png, id=195, 1897.0875pt x 353.32pt>
 File: images/LTSPICE/d.png Graphic file (type png)
 <use images/LTSPICE/d.png>
 Package pdftex.def Info: images/LTSPICE/d.png  used on input line 110.
@@ -1348,7 +1358,7 @@ Overfull \hbox (21.30283pt too wide) in paragraph at lines 110--111
  [] 
  []
 
-<images/LTSPICE/e.png, id=190, 1900.09875pt x 367.3725pt>
+<images/LTSPICE/e.png, id=196, 1900.09875pt x 367.3725pt>
 File: images/LTSPICE/e.png Graphic file (type png)
 <use images/LTSPICE/e.png>
 Package pdftex.def Info: images/LTSPICE/e.png  used on input line 117.
@@ -1358,7 +1368,7 @@ Overfull \hbox (22.05563pt too wide) in paragraph at lines 117--118
  [] 
  []
 
-<images/LTSPICE/f.png, id=191, 1897.0875pt x 363.3575pt>
+<images/LTSPICE/f.png, id=197, 1897.0875pt x 363.3575pt>
 File: images/LTSPICE/f.png Graphic file (type png)
 <use images/LTSPICE/f.png>
 Package pdftex.def Info: images/LTSPICE/f.png  used on input line 124.
@@ -1368,7 +1378,7 @@ Overfull \hbox (21.30283pt too wide) in paragraph at lines 124--125
  [] 
  []
 
-<images/LTSPICE/g.png, id=192, 1896.08376pt x 359.3425pt>
+<images/LTSPICE/g.png, id=198, 1896.08376pt x 359.3425pt>
 File: images/LTSPICE/g.png Graphic file (type png)
 <use images/LTSPICE/g.png>
 Package pdftex.def Info: images/LTSPICE/g.png  used on input line 131.
@@ -1385,18 +1395,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: A71FDD1CD4C4A937F7155713B44D64C5;1519.
  ) 
 Here is how much of TeX's memory you used:
- 59401 strings out of 478300
- 1499774 string characters out of 5849123
+ 59416 strings out of 478300
+ 1500091 string characters out of 5849123
  2244688 words of memory out of 5000000
- 76618 multiletter control sequences out of 15000+600000
+ 76629 multiletter control sequences out of 15000+600000
  608236 words of font info for 185 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,19n,80p,5180b,2401s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/fourier/fourier-ml.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/fourier/fourier-mlit.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb><c:/texlive/2022/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qbkb.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qbkr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qbkri.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (18 pages, 508662 bytes).
+Output written on main.pdf (18 pages, 558020 bytes).
 PDF statistics:
- 273 PDF objects out of 1000 (max. 8388607)
- 196 compressed objects within 2 object streams
- 55 named destinations out of 1000 (max. 500000)
- 34535 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 279 PDF objects out of 1000 (max. 8388607)
+ 198 compressed objects within 2 object streams
+ 57 named destinations out of 1000 (max. 500000)
+ 34545 words of extra memory for PDF output out of 35830 (max. 10000000)
 

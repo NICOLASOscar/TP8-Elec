@@ -1518,6 +1518,16 @@ INPUT ./images/4.png
 INPUT images/4.png
 INPUT ./images/4.png
 INPUT ./images/4.png
+INPUT ./images/boucle1.png
+INPUT ./images/boucle1.png
+INPUT images/boucle1.png
+INPUT ./images/boucle1.png
+INPUT ./images/boucle1.png
+INPUT ./images/boucle2.png
+INPUT ./images/boucle2.png
+INPUT images/boucle2.png
+INPUT ./images/boucle2.png
+INPUT ./images/boucle2.png
 INPUT c:/texlive/2022/texmf-dist/fonts/vf/public/fourier/futmii.vf
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/fourier/fourier-mlit.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/fourier/fourier-ml.tfm
